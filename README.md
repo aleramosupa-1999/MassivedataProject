@@ -1,5 +1,5 @@
 # Massive Data Project
-Massive Data Analysis project about Diabetes 
+
 Diabetes Mellitus (DM) is a metabolic impairment characterized by the inability to normally stabilize glucose blood levels; this impairment is conditioned by several causes, some of them are still unknown. 3 most common causes are:
 
 Insulin resistance
